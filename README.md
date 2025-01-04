@@ -1,6 +1,8 @@
 ![Hello Canvave](./doc/hellocanvave.gif)
 
-# <div style="display:flex;align-items:center;gap:8px;"><img src="./doc/logo.png" style="width:30px;height:30px;" /> Canvave</div>
+# Canvave
+
+<img src="./doc/logo.png" style="width:200px;height:200px;" align="right"/>
 
 [Canvave](https://canvave.com/) is a design platform for creating image or animation.
 
