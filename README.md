@@ -11,12 +11,12 @@ I used to make posters, banners, and animations by some design tools, but most o
 - 🪄 Easy for creating animations
 - 🎨 Good for any size images
 - 📦 Customize shapes/fonts/images
-- ⚡️ Export image and export animation as GIF/MP4 for free
+- ⚡️ Export image and export animation as GIF/MP4 for free 
 - 🚀 AI feature is coming soon
 
 This repo is used to report issues or updates.
 
-<br />
+<a href="https://www.producthunt.com/products/canvave?utm_source=badge-follow&utm_medium=badge&utm_souce=badge-canvave" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/follow.svg?product_id=864393&theme=dark" alt="Canvave - Poster&#0032;design&#0032;tool | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ![website](./doc/screenshot.png)
 
