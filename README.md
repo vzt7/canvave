@@ -11,8 +11,8 @@ I used to make posters, banners, and animations by some design tools, but most o
 - 🪄 Easy for creating animations
 - 🎨 Good for any size images
 - 📦 Customize shapes/fonts/images
-- ⚡️ Export image and export animation as GIF/MP4 for free 
-- 🚀 AI feature is coming soon
+- ⚡️ Export image as PNG or animation as GIF/MP4 for free 
+- 🚀 AI features is coming soon
 
 This repo is used to report issues or updates.
 
