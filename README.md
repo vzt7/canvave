@@ -1,4 +1,8 @@
-![Hello Canvave](./doc/hellocanvave.gif)
+<div align="right">
+  
+https://github.com/user-attachments/assets/0c02f35d-7dd4-4cff-b32d-1412e078ae10
+
+</div>
 
 # Canvave
 
@@ -14,10 +18,10 @@ I used to make posters, banners, and animations by some design tools, but most o
 - ⚡️ Export image as PNG or animation as GIF/MP4 for free 
 - 🚀 AI features is coming soon
 
-This repo is used to report issues or updates.
-
 <a href="https://www.producthunt.com/products/canvave?utm_source=badge-follow&utm_medium=badge&utm_souce=badge-canvave" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/follow.svg?product_id=864393&theme=dark" alt="Canvave - Poster&#0032;design&#0032;tool | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
-![website](./doc/screenshot.png)
+## How to create an animation in seconds ?
 
-> It still in Beta now.
+See a demo below:
+
+https://github.com/user-attachments/assets/e2521b25-526a-453e-9224-d88bff91adb2
